@@ -39,3 +39,27 @@ Commit your changes
 Open a Pull Request
 📜 License
 This project is licensed under the MIT License.
+
+
+Home page
+
+![Screenshot 2025-04-13 132003](https://github.com/user-attachments/assets/a6aea633-a448-4764-af4f-6934ae47e7ca)
+
+
+AFTER ADDING EXPENSES AND INCOME
+
+
+![Screenshot 2025-04-13 131952](https://github.com/user-attachments/assets/ad424bcf-112d-4a5d-84e8-50e029d13e4d)
+
+
+
+
+
+
+
+
+
+
+
+
+
